@@ -1,0 +1,4 @@
+com\javawit\CalculatorSpringAPI.class
+com\javawit\controllers\CalculatorController.class
+com\javawit\model\OperationModel.class
+com\javawit\service\CalculateSimple.class
